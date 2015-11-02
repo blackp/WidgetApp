@@ -38,6 +38,6 @@ extension SpecificWidget: Widget {
     }
 }
 
-//extension VagueWidget: Widget {
-//    
-//}
+extension VagueWidget: Widget {
+    
+}
